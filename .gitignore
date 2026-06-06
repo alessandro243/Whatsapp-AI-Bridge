@@ -1,0 +1,25 @@
+# === Configurações Locais e Segurança (CRÍTICO) ===
+.env
+.env.local
+
+# === Persistência do Navegador (NÃO SUBIR - CONTÉM SEUS COOKIES DO WHATSAPP) ===
+sessao_whatsapp/
+
+# === Ambientes Virtuais do Python ===
+.venv/
+venv/
+ENV/
+env/
+ENV_DIR/
+
+# === Arquivos temporários e Cache do Python ===
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# === Configurações do Editor ===
+.vscode/
+.idea/
