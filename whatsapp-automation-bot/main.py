@@ -1,8 +1,8 @@
-import time
-from WhatsAppConfig import WhatsAppConfig
-whatsapp = WhatsAppConfig()
-whatsapp.startBrowser()
+from WhatsAppBot import WhatsAppBot
 
-input("Enter para fechar o navegador.")
+whatsapp = WhatsAppBot()
+whatsapp.searchElementByState_("visible")    
+whatsapp.searchContact_("Maninha")
 
-whatsapp.closeBrowser()
+input("\nVeja se o nome foi digitado! Aperte ENTER para fechar o navegador...")
+whatsapp.closeBrowser_()
