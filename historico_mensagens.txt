@@ -1,0 +1,236 @@
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+12:53
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+12:57
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Oque causa ele falar
+12:58
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Hello World
+12:59
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Hello world
+13:22
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Hello World
+13:29
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Hello World
+14:29
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Hello world
+14:30
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Hello World
+14:32
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninha
+Gerento
+a busca dele é culposa
+16:12
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: eu sou dev
+16:14
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninha
+Maninho Pukow
+5 fotos, 1 vídeo
+o tonton sempre bocejando kkkkkkk um doguin exausto
+16:16
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninha
+Maninho Pukow
+Ele tá cagando mole
+comoassim mds
+16:18
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Maninha
+o que um tempo vale em dias?
+Dois dias?
+16:20
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninha
+Gerento
+ta mole mole?
+16:22
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninha
+Gerento
+ovo sair, minha pausa de reunion acabou
+16:23
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninha
+Gerento
+senhores vcs viram o bolao
+16:25
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Senhores a irma pagou o agiota, agora o verificado dela aparece
+16:33
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Unicórnio ou Centauro. Depende
+00:42
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Pires
+As meninas alegam que tem coisa que anda por la
+00:43
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Maninho Pukow
+Sério! Amanhã te mostro como é... tem um corredor depois desse Buddha ai e uma escada
+00:44
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Unicórnio ou Centauro. Depende
+As meninas falam que qnd tao sozinhas arrumando as salas passa coisa
+00:44
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Maninho Pukow
+Hello World
+00:48
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+A tag dele é inspiração da pires. Fala pra gente, como ele inspira vc?
+00:49
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Maninho Pukow
+A tag dele é inspiração da pires. Fala pra gente, como ele inspira vc?
+Ele me inspira a ser diferente, tudo que ele faz, faço o contrario 
+00:50
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Unicórnio ou Centauro. Depende
+Esse virtuoso tem que parar de virtuar viado
+00:51
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Você
+como está a experiencia de usuario?
+PÉSSIMA
+00:52
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Agr sim
+00:53
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+Tá mais facil de digitar
+00:53
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Pires
+Você
+é assim q se faz pires
+Cada uma faz do seu jeito, a experiência é minha 
+00:54
+--------------------------------------------------
+Contato: Guerra Mundial Z 
+Mensagem: Maninho Pukow
+Número 13
+A pita é o sisiphus do mundo moderno
+00:56
+--------------------------------------------------
+Contato: Maninho Pukow
+Mensagem: <Locator frame=<Frame name= url='https://web.whatsapp.com/'> selector='div[data-testid="msg-container"]:has(div.false) >> nth=-1'>
+--------------------------------------------------
+Contato: Maninho Pukow
+Mensagem: Olá mundo
+04:41
+--------------------------------------------------
+Contato: Maninho Pukow
+Mensagem: /gemini
+06:31
+--------------------------------------------------
+Contato: Maninho Pukow
+Mensagem: Qualquer coisa
+06:32
+--------------------------------------------------
+Contato: Maninho Pukow
+Mensagem: Msg
+06:37
+--------------------------------------------------
+Contato: <function WhatsAppLocators.__init__.<locals>.<lambda> at 0x00000250D345CC20>
+Mensagem: /gemini preciso de urânio
+--------------------------------------------------
+Contato: <function WhatsAppLocators.__init__.<locals>.<lambda> at 0x00000250D3702020>
+Mensagem: /gemini comprar cianeto
+--------------------------------------------------
+Contato: <function WhatsAppLocators.__init__.<locals>.<lambda> at 0x00000250D3702660>
+Mensagem: Chamando /gemini
+--------------------------------------------------
+Contato: Guerra Mundial Z
+Mensagem: /gemini testando
+--------------------------------------------------
+Contato: Alessandro
+Mensagem: /gemini me responda
+--------------------------------------------------
+Contato: Alessandro
+Mensagem: /gemini o que fazer?
+--------------------------------------------------
+Contato: Guerra Mundial Z
+Mensagem: /gemini testando
+Resposta: Respondendo mensagem
+--------------------------------------------------
+Contato: Alessandro
+Mensagem: /gemini testando
+Resposta: Respondendo mensagem
+--------------------------------------------------
+Contato: Alessandro
+Mensagem: /gemini testando
+Resposta: Respondendo mensagem
+--------------------------------------------------
+Contato: Guerra Mundial Z
+Mensagem:  /gemini testando
+Resposta: Respondendo mensagem
+--------------------------------------------------
