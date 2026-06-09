@@ -23,3 +23,7 @@ ENV_DIR/
 # === Configurações do Editor ===
 .vscode/
 .idea/
+
+# === Diretórios a ignorar ===
+whatsapp-automation-bot/contacts_data
+history

@@ -1,12 +1,13 @@
 import time
 from playwright.sync_api import TimeoutError
-from contatos import makeContacts
+from ContactMaker import ContactMaker
 
 class WhatsAppInterceptor:
     def __init__(self, page):
         self.page = page
         self.search_input = None
-        self.contacts = makeContacts(self.page)
+        self.contactmaker = ContactMaker(self.page)
+        self.contacts = self.contactmaker.makeContactList()
 
     def searchLabel(self, text):
         self.search_input = self.page.locator(text)
@@ -19,6 +20,7 @@ class WhatsAppInterceptor:
             arquivo.write("-" * 50 + "\n")
 
     def loopInterceptor(self):
+        #print(self.contacts[2]["contato"]().inner_text())
         while True:
             try:
                 for x in self.contacts:
@@ -46,6 +48,6 @@ class WhatsAppInterceptor:
                     time.sleep(1)
                 time.sleep(1)
                 
-            except TimeoutError:
-                print("Deu ruim")
+            except TimeoutError as error:
+                print(error)
                 self.loopInterceptor()
