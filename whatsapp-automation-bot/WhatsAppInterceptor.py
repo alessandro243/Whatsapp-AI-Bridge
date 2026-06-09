@@ -20,6 +20,7 @@ class WhatsAppInterceptor:
             arquivo.write("-" * 50 + "\n")
 
     def loopInterceptor(self):
+        
         #print(self.contacts[2]["contato"]().inner_text())
         while True:
             try:
